@@ -1,0 +1,15 @@
+From bonsai@localhost  Mon Nov  7 15:53:13 2016
+Return-Path: <bonsai@localhost>
+X-Original-To: bonsai
+Delivered-To: bonsai@localhost
+Received: by localhost (Postfix, from userid 1000)
+	id 075722E090D; Mon,  7 Nov 2016 15:53:12 -0500 (EST)
+Date: Mon, 07 Nov 2016 15:53:12 -0500
+To: bonsai@localhost
+User-Agent: mail v14.8.12
+Message-Id: <20161107205313.075722E090D@localhost>
+From: bonsai@localhost
+Status: R
+
+bad news: fred guessed groucho
+
